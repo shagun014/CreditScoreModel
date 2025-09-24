@@ -1,0 +1,4 @@
+git clone [https://github.com/Shagun014/Credit-Scoring-ML-Model.git](https://github.com/YourUsername/Credit-Scoring-ML-Model.git)
+cd Credit-Scoring-ML-Model
+
+python credit_scoring_model.py
